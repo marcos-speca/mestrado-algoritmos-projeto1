@@ -3,7 +3,7 @@ Este repositório é referente ao trabalho da disciplina de Algoritmos e Program
 
 O Objetivo do trabalho é comparar os tempos de cinco algoritmos de ordenação (bolha, seleção, inserção, merge e quicksort) em diferentes tipos de vetores (aleatórios, crescentes e decrescentes) e diferentes tamanhos (mil, dez mil e cem mil elementos). 
 
-O relatório final pode ser encontrado no arquivo [Projeto 1 - Comparação de Algoritmos.pdf]("https://github.com/marcos-speca/mestrado-algoritmos-projeto1/blob/main/Projeto1%20-%20Compara%C3%A7%C3%A3o%20Algoritmos.pdf?raw=true")
+O relatório final pode ser encontrado no arquivo [Projeto 1 - Comparação de Algoritmos.pdf](https://github.com/marcos-speca/mestrado-algoritmos-projeto1/blob/main/Projeto1%20-%20Compara%C3%A7%C3%A3o%20Algoritmos.pdf?raw=true).
 
 Além do relatório os demais arquivos que compõem o trabalho são: 
 
