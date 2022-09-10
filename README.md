@@ -11,4 +11,4 @@ O trabalho consiste em:
 - **Graficos Comparativos.pbix**: Arquivo PowerBI com os gráficos que suportaram as análises. 
 - **Projeto 1 - Comparação Algoritmos.docx**: Relatório Completo com todas as análises realizadas. 
 
-![alt text](https://github.com/marcos-speca/mestrado-algoritmos-projeto1/blob/main/diagrama.png?raw=true)
+![alt text](https://github.com/marcos-speca/mestrado-algoritmos-projeto1/blob/main/diagrama.jpg?raw=true)
