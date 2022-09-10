@@ -6,9 +6,9 @@ O Objetivo do trabalho é comparar os tempos de cinco algoritmos de ordenação 
 O trabalho consiste em: 
 
 - **Projeto1.ipynb**: Notebook Python com os códigos referente aos algoritmos eas funções que criam os vetores, executam as ordenações e gravam os tempos obitidos. 
-- ** **: Arquivo de log de execuções temporário, cuja os tempos serão gravados e depois consolidados no arquivo excel. 
-- ** **: Arquivo excel com todos os tempoos das coletas consolidadas. 
-- ** **: Arquivo PowerBI com os gráficos que suportaram as análises. 
-- ** **: Relatório Completo com todas as análises realizadas. 
+- **log_execucoes.txt**: Arquivo de log de execuções temporário, cuja os tempos serão gravados e depois consolidados no arquivo excel. 
+- **dados_tempos**: Arquivo excel com todos os tempoos das coletas consolidadas. 
+- **Graficos Comparativos.pbix**: Arquivo PowerBI com os gráficos que suportaram as análises. 
+- **Projeto 1 - Comparação Algoritmos.docx**: Relatório Completo com todas as análises realizadas. 
 
-
+![alt text](https://github.com/marcos-speca/mestrado-algoritmos-projeto1/blob/main/diagrama.png?raw=true)
