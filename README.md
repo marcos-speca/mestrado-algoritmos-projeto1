@@ -10,7 +10,7 @@ Além do relatório os demais arquivos que compõem o trabalho são:
 - **Projeto1.ipynb**: Notebook Python com os códigos referente aos algoritmos eas funções que criam os vetores, executam as ordenações e gravam os tempos obitidos. 
 - **log_execucoes.txt**: Arquivo de log de execuções temporário, cuja os tempos serão gravados e depois consolidados no arquivo excel. 
 - **dados_tempos**: Arquivo excel com todos os tempoos das coletas consolidadas. 
-- **Graficos Comparativos.pbix**: Arquivo PowerBI com os gráficos que suportaram as análises. Acesso [neste link](https://app.powerbi.com/view?r=eyJrIjoiN2NiMzJiNmUtNzc0My00MTYzLTgyOTgtYmIyMjdiZTcwYjBhIiwidCI6ImQ1NGFiZGU0LTVlZDYtNDI0OC1iODAzLTNkN2JkYWI0ZjYwOSIsImMiOjR9).
+- **Graficos Comparativos.pbix**: Arquivo PowerBI com os gráficos que suportaram as análises. Acesso [neste link](https://app.powerbi.com/view?r=eyJrIjoiMWJkZTBiNmItZWUwZi00YWE5LThjZDItNDA5M2RiODg5MTNlIiwidCI6ImQ1NGFiZGU0LTVlZDYtNDI0OC1iODAzLTNkN2JkYWI0ZjYwOSIsImMiOjR9).
 
 
 ## Abaixo um diagrama dos componentes: 
